@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+}
+
+#header {
+  padding: 20px 50px;
+  background: #c1e5ff;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+#logo {
+  font-size: 3vw;
+  color: #3c8fdc;
+  font-weight: bold;
+}
+
+#header_links a {
+  color: #3c8fdc;
+  margin: 0 20px;
+  font-size: 2.4vw;
+}
